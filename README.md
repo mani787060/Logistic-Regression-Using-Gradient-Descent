@@ -100,15 +100,16 @@ A synthetic binary classification dataset generated using Scikit-Learn to demons
 
 ---
 
-## 🏁 Conclusion
-
-Logistic Regression is one of the most widely used classification algorithms in Machine Learning. By implementing it from scratch using Gradient Descent, this project provides a clear understanding of how the Sigmoid function, Binary Cross-Entropy Loss, and iterative optimization work together to build an effective binary classifier.
-
----
-
 ## 💻 Technologies Used
 
 * Python
 * NumPy
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Logistic Regression is one of the most widely used classification algorithms in Machine Learning. By implementing it from scratch using Gradient Descent, this project provides a clear understanding of how the Sigmoid function, Binary Cross-Entropy Loss, and iterative optimization work together to build an effective binary classifier.
+
